@@ -1,5 +1,8 @@
 # RelayBar
 
+> [!IMPORTANT]
+> LLM disclosure: This codebase was written with substantial help from large language models: AI coding agents working from the [`AGENTS.md`](AGENTS.md) brief in this repo.
+
 A fork of [lx2026/RelayBar](https://github.com/lx2026/RelayBar), a tiny native macOS
 menu-bar app for structured SSH forwarding profiles and exact-path remote file access.
 
